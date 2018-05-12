@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '286'
     url: http://www.gutenberg.org/2009/agents/286
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35483#The-Go-Ahead-Boys-on-Smugglers-Island
 gutenberg_issued: '2011-03-05'
 gutenberg_type: Text
 identifiers:
